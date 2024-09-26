@@ -13,4 +13,4 @@ This project features a responsive-adaptive markup with a desktop-first approach
 [DEMO LINK](https://k-shestakov.github.io/kate-vr-landing/)
 
 ### 🎨 Link to mockup
-[MOCKUP](https://www.figma.com/design/Blpg4iapsI7fRqJeSp6DvK/KatVR-_FE-students?node-id=1-370&node-type=frame)
+[MOCKUP](https://www.figma.com/design/Blpg4iapsI7fRqJeSp6DvK/KatVR-_FE-students)
